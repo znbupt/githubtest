@@ -24,4 +24,11 @@ void bugBranchfunc()
     cout<<"this is the bug branch func."<<endl ; 
 }
 
+void mainFunc()
+{
+    cout<<"It needs continue...."<<endl ; 
+
+}
+
+
 

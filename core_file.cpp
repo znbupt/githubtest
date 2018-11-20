@@ -8,8 +8,17 @@ void devFunc()
     cout<<"this is dev branch."<<endl ; 
 }
 
+
 void masterFunc()
 {
     cout<<"this is master branch."<<endl ; 
 }
+
+void devSecfunc()
+{
+    cout<<"this is the dev sec func."<<endl ; 
+}
+
+
+
 

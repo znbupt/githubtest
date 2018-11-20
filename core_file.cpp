@@ -19,6 +19,9 @@ void devSecfunc()
     cout<<"this is the dev sec func."<<endl ; 
 }
 
-
+void bugBranchfunc()
+{
+    cout<<"this is the bug branch func."<<endl ; 
+}
 
 
